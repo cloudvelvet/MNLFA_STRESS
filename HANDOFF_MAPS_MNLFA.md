@@ -153,6 +153,14 @@ Main run script:
 maps_mnlfa_poster_run.R
 ```
 
+Empirical comparator workflow:
+
+```text
+maps_empirical_comparators_run.R
+maps_invariant_lgm.stan
+run_maps_empirical_comparators.ps1
+```
+
 PowerShell wrapper:
 
 ```text
@@ -310,10 +318,11 @@ Most feasible and closest to completion.
 
 Still needed:
 
-- implement naive observed-score growth model
-- implement invariant ordinal latent growth model
-- compare both against the current MNLFA
-- add model-implied trajectory comparison
+- run and validate the newly added comparator workflow on local analytic data
+- inspect naive observed-score growth results
+- inspect invariant ordinal latent growth results
+- compare both against the current MNLFA outputs
+- refine model-implied trajectory comparison for the manuscript figures
 - discuss loading DIF as well as threshold DIF
 - justify weighting / unweighted analysis choice
 
@@ -433,6 +442,12 @@ Run quick NUTS check:
 
 ```powershell
 powershell -ExecutionPolicy Bypass -File .\run_maps_mnlfa_poster.ps1 -Mode quick
+```
+
+Run empirical comparators:
+
+```powershell
+powershell -ExecutionPolicy Bypass -File .\run_maps_empirical_comparators.ps1 -Mode quick
 ```
 
 Run simulation:
