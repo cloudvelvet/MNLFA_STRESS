@@ -7,13 +7,15 @@
 # "quick" uses a person subset and short chains to verify the pipeline.
 # "full" uses all MAPS rows with CmdStan variational inference.
 # "nuts_check" uses a larger person subset with regular NUTS as a sanity check.
+# "full_nuts_light" uses a larger person subset with regular NUTS for
+# poster/manuscript diagnostics when full NUTS is computationally impractical.
 # "full_nuts" is the full posterior target, but it is computationally heavy
 # because the model has person-level latent growth and occasion effects.
 
 args <- commandArgs(trailingOnly = TRUE)
 mode <- if (length(args) >= 1) args[1] else "quick"
-if (!mode %in% c("quick", "full", "nuts_check", "full_nuts")) {
-  stop("Mode must be one of: quick, full, nuts_check, full_nuts.")
+if (!mode %in% c("quick", "full", "nuts_check", "full_nuts_light", "full_nuts")) {
+  stop("Mode must be one of: quick, full, nuts_check, full_nuts_light, full_nuts.")
 }
 
 data_path <- if (file.exists("longdat_maps_parent_discrim.csv")) {
@@ -61,8 +63,13 @@ if (length(missing_cols) > 0) {
   stop("Missing required columns: ", paste(missing_cols, collapse = ", "))
 }
 
-if (mode %in% c("quick", "nuts_check")) {
-  n_people <- if (mode == "quick") 80 else 300
+if (mode %in% c("quick", "nuts_check", "full_nuts_light")) {
+  n_people <- switch(
+    mode,
+    quick = 80,
+    nuts_check = 300,
+    full_nuts_light = 600
+  )
   keep_people <- sort(unique(dat$person_id))[seq_len(min(n_people, length(unique(dat$person_id))))]
   dat <- dat[dat$person_id %in% keep_people, ]
   dat$person_id <- as.integer(factor(dat$person_id))
@@ -120,6 +127,11 @@ if (mode == "quick") {
   chains <- 4
   iter_warmup <- 300
   iter_sampling <- 300
+  adapt_delta <- 0.95
+} else if (mode == "full_nuts_light") {
+  chains <- 4
+  iter_warmup <- 500
+  iter_sampling <- 500
   adapt_delta <- 0.95
 } else if (mode == "full_nuts") {
   chains <- 4

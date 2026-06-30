@@ -1,5 +1,5 @@
 param(
-  [ValidateSet("quick", "full", "nuts_check", "full_nuts")]
+  [ValidateSet("quick", "full", "nuts_check", "full_nuts_light", "full_nuts")]
   [string]$Mode = "quick"
 )
 

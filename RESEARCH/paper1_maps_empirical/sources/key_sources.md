@@ -62,18 +62,20 @@ separate common-factor change from changes in the measurement model.
 
 - DOI: https://doi.org/10.1007/s10182-010-0129-y
 
-## MAPS-Specific Contextual Evidence
+## MAPS-Specific Prior Evidence
 
 Lee and Choi (2026) used MAPS 2022 data, a graded response model, and a MIMIC
 approach to validate a related acculturative-stress scale for mothers from
 multicultural families. They reported discrimination-related DIF in 5 of 7
 items.
 
-Use this as contextual support, not direct replication, because the item set,
-wave structure, and model differ from the present longitudinal MNLFA.
+Use this as same-context prior psychometric evidence motivating discrimination
+as a DIF predictor. Do not describe it as independent external validation or
+direct replication: it comes from the same research program/data context, and
+the item set, wave structure, and model differ from the present longitudinal
+MNLFA.
 
 - KCI: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003314865
 - Citation: Lee, C., & Choi, Y. (2026). Psychometric Validation of the Cultural
   Adaptation Stress Scale for Mothers from Multicultural Families Using the
   Graded Response Model. Korean Journal of Convergence Science, 15(2), 379-395.
-

@@ -20,6 +20,15 @@ simulation_parent_discrim_output/
 imps_poster_output/
 llm_dif_output/
 transfer_bundles/
+split_exports/
+cmdstan/
+Rlib/
+mini_mc_output/
+output/
+tmp/
+r_tmp_ascii/
+testwell_run/
+Rplots.pdf
 
 # Large serialized model objects
 *.rds
