@@ -14,6 +14,8 @@ outputs are intentionally excluded from Git.
 - `maps_parent_prep_discrim.R`: preprocess MAPS parent waves 1-5
 - `maps_mnlfa_poster.stan`: longitudinal ordinal MNLFA model
 - `maps_mnlfa_poster_run.R`: CmdStanR estimation wrapper
+- `maps_invariant_lgm.stan`: invariant ordinal latent-growth comparator
+- `maps_empirical_comparators_run.R`: observed-score and invariant-model comparator workflow
 - `maps_simulate_parent_discrim.stan`: simulation model
 - `maps_parent_discrim_simulation_run.R`: simulation wrapper
 - `make_imps_poster.R`: A0 poster generation from model summaries
@@ -27,6 +29,8 @@ outputs are intentionally excluded from Git.
   across item responses.
 - Full empirical estimates are mean-field VI summaries, not full-data NUTS
   posterior confirmation.
+- Empirical-paper comparators are run separately from the MNLFA poster model:
+  naive observed-score growth and an invariant ordinal latent-growth model.
 
 ## Data Notice
 
