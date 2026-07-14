@@ -5,7 +5,16 @@
 
 ## Analysis specification
 
-The primary poster analysis uses the MAPS parent panel (W1-W5; 2,190 parents; 77,160 item responses). Wave is restricted to the latent growth equation. Measurement DIF is modeled with time-varying Korean proficiency, income, and discrimination. The estimates below pool selected draws from four full-data mean-field variational inference fits.
+The primary poster analysis uses the MAPS parent panel (W1-W5; 2,190 parents; 77,160 item responses). Wave is restricted to the latent growth equation. Measurement DIF is modeled with time-varying Korean proficiency, income, and discrimination. The estimates below pool selected draws from four mean-field variational inference fits using complete covariate cases.
+
+## Estimation, priors, and data handling
+
+- **Approximation.** Four independent mean-field VI optimizations used 15,000 iterations, 50 ELBO samples per evaluation, and 1,000 output samples. The posterior is approximate; no same-specification no-wave NUTS confirmation is claimed.
+- **Current diagnostic record.** The archived output documents four-seed stability for the slope. ELBO trace and PSIS diagnostics are not archived in this release, so they are not presented as completed validation.
+- **Missing covariates.** The source contained 77,296 response rows from 2,191 parents. Complete-case analysis excluded 136 rows with missing log-income, yielding 77,160 analyzed responses from 2,190 parents. This is not FIML or multiple imputation.
+- **Panel retention in the analytic data.** W1: 2,183; W2: 1,992; W3: 1,914; W4: 1,808; W5: 1,748 parents.
+- **DIF parameterization.** All item-by-covariate loading and threshold DIF effects were jointly estimated. There was no hard anchor item and no modification-index or post-hoc item selection.
+- **Regularizing priors.** Loading DIF parameters used Normal(0, 0.20); threshold DIF parameters used Normal(0, 0.35); latent-state covariate effects used Normal(0, 0.35).
 
 ## Table S1. Discrimination-related threshold DIF
 
