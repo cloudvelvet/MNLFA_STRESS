@@ -1,0 +1,9 @@
+"Item","Item content","Threshold DIF mean","90% lower","90% upper","Seed mean minimum","Seed mean maximum","All seed means negative"
+1,"Different treatment",-1.09,-1.225,-0.977,-1.139,-1.046,TRUE
+2,"Perceived prejudice",-1.575,-1.715,-1.456,-1.658,-1.533,TRUE
+3,"Homesickness",-0.266,-0.403,-0.135,-0.357,-0.212,TRUE
+4,"Unfamiliar environment",-0.371,-0.57,-0.216,-0.53,-0.277,TRUE
+5,"Missing birthplace/people",-0.202,-0.345,-0.077,-0.298,-0.152,TRUE
+6,"Anger at disregard",-1.214,-1.325,-1.093,-1.258,-1.156,TRUE
+7,"Withdrawal",-0.821,-1.023,-0.675,-0.976,-0.759,TRUE
+8,"Low social status",-0.848,-1.021,-0.705,-0.986,-0.78,TRUE

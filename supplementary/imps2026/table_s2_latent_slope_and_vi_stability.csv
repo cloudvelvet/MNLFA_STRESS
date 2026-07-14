@@ -1,0 +1,6 @@
+"Estimate","Seed","Slope mean","90% lower","90% upper","Growth intercept SD","Growth slope SD","Occasion SD"
+"Pooled posterior slope mean",,-0.16,-0.185,-0.133,,,
+"VI seed",20260710,-0.16,,,0.02,0.011,4.141
+"VI seed",20260711,-0.167,,,2.484,0.174,2.031
+"VI seed",20260712,-0.144,,,2.389,0.012,2.281
+"VI seed",20260713,-0.169,,,2.544,0.158,2.122
