@@ -1,0 +1,637 @@
+[
+  {
+    "category": "novelty",
+    "page": 2,
+    "text": "We describe how structural equation modeling can be used to detect"
+  },
+  {
+    "category": "novelty",
+    "page": 2,
+    "text": "response shifts and to measure true change."
+  },
+  {
+    "category": "novelty",
+    "page": 3,
+    "text": "Here we will describe another structural"
+  },
+  {
+    "category": "novelty",
+    "page": 3,
+    "text": "equation modeling procedure to detect recalibra-"
+  },
+  {
+    "category": "novelty",
+    "page": 3,
+    "text": "tion, reprioritization, and reconceptualization re-"
+  },
+  {
+    "category": "novelty",
+    "page": 3,
+    "text": "sponse shifts, using data from two measurement"
+  },
+  {
+    "category": "novelty",
+    "page": 3,
+    "text": "occasions only (e.g., pretest-posttest data or"
+  },
+  {
+    "category": "novelty",
+    "page": 3,
+    "text": "baseline-followup data). With this procedure it is"
+  },
+  {
+    "category": "novelty",
+    "page": 3,
+    "text": "not only possible to detect various types of re-"
+  },
+  {
+    "category": "novelty",
+    "page": 3,
+    "text": "sponse shifts, but also to account for them and to"
+  },
+  {
+    "category": "novelty",
+    "page": 3,
+    "text": "still measure true change."
+  },
+  {
+    "category": "method",
+    "page": 3,
+    "text": "In structural equation modeling we model mean"
+  },
+  {
+    "category": "method",
+    "page": 3,
+    "text": "and covariance structures, rather than the scores"
+  },
+  {
+    "category": "method",
+    "page": 3,
+    "text": "of individual subjects, as in Equation (1)."
+  },
+  {
+    "category": "method",
+    "page": 4,
+    "text": "When a test or questionnaire is administered at"
+  },
+  {
+    "category": "method",
+    "page": 4,
+    "text": "two occasions, the parameter matrices that feature"
+  },
+  {
+    "category": "method",
+    "page": 4,
+    "text": "in Equations (2) and (3) are made up of smaller"
+  },
+  {
+    "category": "method",
+    "page": 4,
+    "text": "matrices."
+  },
+  {
+    "category": "novelty",
+    "page": 5,
+    "text": "That is, with Table 1 we submit that an"
+  },
+  {
+    "category": "novelty",
+    "page": 5,
+    "text": "across occasion difference within the parameter"
+  },
+  {
+    "category": "novelty",
+    "page": 5,
+    "text": "matrix in the first column is indicative of the type"
+  },
+  {
+    "category": "novelty",
+    "page": 5,
+    "text": "of change in the third column, which can be tested"
+  },
+  {
+    "category": "novelty",
+    "page": 5,
+    "text": "with the invariance hypothesis in the fourth"
+  },
+  {
+    "category": "novelty",
+    "page": 5,
+    "text": "column."
+  },
+  {
+    "category": "method",
+    "page": 5,
+    "text": "Various types of change, including response shifts"
+  },
+  {
+    "category": "method",
+    "page": 5,
+    "text": "and true change, can be investigated by testing the"
+  },
+  {
+    "category": "method",
+    "page": 5,
+    "text": "across occasion invariance of (elements of) the"
+  },
+  {
+    "category": "method",
+    "page": 5,
+    "text": "submatrices given by Equations (5) through (7)."
+  },
+  {
+    "category": "method",
+    "page": 6,
+    "text": "If the value of the factor loading of a particular"
+  },
+  {
+    "category": "method",
+    "page": 6,
+    "text": "observed variable changes from one occasion to"
+  },
+  {
+    "category": "method",
+    "page": 6,
+    "text": "the next, then that variable has become more"
+  },
+  {
+    "category": "method",
+    "page": 6,
+    "text": "indicative or less indicative of the concept in-"
+  },
+  {
+    "category": "method",
+    "page": 6,
+    "text": "volved."
+  },
+  {
+    "category": "result",
+    "page": 6,
+    "text": "the"
+  },
+  {
+    "category": "result",
+    "page": 6,
+    "text": "pattern of the F1 matrix differs from pattern of the"
+  },
+  {
+    "category": "result",
+    "page": 6,
+    "text": "F2 matrix, then one or more concepts are defined"
+  },
+  {
+    "category": "result",
+    "page": 6,
+    "text": "by unequal sets of observed variables, and we"
+  },
+  {
+    "category": "result",
+    "page": 6,
+    "text": "conclude that reconceptualization occurred."
+  },
+  {
+    "category": "result",
+    "page": 6,
+    "text": "first"
+  },
+  {
+    "category": "novelty",
+    "page": 7,
+    "text": "Such a change can be interpreted as reprioritiza-"
+  },
+  {
+    "category": "novelty",
+    "page": 7,
+    "text": "tion or reconceptualization in the measurement of"
+  },
+  {
+    "category": "novelty",
+    "page": 7,
+    "text": "one or more higher order factors. In"
+  },
+  {
+    "category": "method",
+    "page": 7,
+    "text": "Therefore,"
+  },
+  {
+    "category": "method",
+    "page": 7,
+    "text": "across occasion differences between intercepts z"
+  },
+  {
+    "category": "method",
+    "page": 7,
+    "text": "(i.e., within T, between Tr and Z2) and across oc-"
+  },
+  {
+    "category": "method",
+    "page": 7,
+    "text": "casion differences between residual variances (i.e.,"
+  },
+  {
+    "category": "method",
+    "page": 7,
+    "text": "within Diag(Q), between Diag(Q11) and Diag(Q22)"
+  },
+  {
+    "category": "method",
+    "page": 7,
+    "text": "are considered as evidence of uniform recalibra-"
+  },
+  {
+    "category": "method",
+    "page": 7,
+    "text": "tion and non-uniform recalibration, respectively."
+  },
+  {
+    "category": "result",
+    "page": 7,
+    "text": "In the model given by Equation (1), the"
+  },
+  {
+    "category": "result",
+    "page": 7,
+    "text": "common factors 4 can be seen as operationaliza-"
+  },
+  {
+    "category": "result",
+    "page": 7,
+    "text": "tions of target constructs, so that the change in the"
+  },
+  {
+    "category": "result",
+    "page": 7,
+    "text": "common factor means cx can be used as the oper-"
+  },
+  {
+    "category": "result",
+    "page": 7,
+    "text": "ationalization of true change."
+  },
+  {
+    "category": "method",
+    "page": 8,
+    "text": "Table 2 summarizes the four steps in a procedure"
+  },
+  {
+    "category": "method",
+    "page": 8,
+    "text": "for the detection of response shifts and the mea-"
+  },
+  {
+    "category": "method",
+    "page": 8,
+    "text": "surement of true change. In this procedure, struc-"
+  },
+  {
+    "category": "method",
+    "page": 8,
+    "text": "tural equation modeling is used to investigate the"
+  },
+  {
+    "category": "method",
+    "page": 8,
+    "text": "invariance hypotheses listed in Table 1."
+  },
+  {
+    "category": "result",
+    "page": 8,
+    "text": "The difference in the"
+  },
+  {
+    "category": "result",
+    "page": 8,
+    "text": "X2 measures of fit of Models 1 and 2 can thus be"
+  },
+  {
+    "category": "result",
+    "page": 8,
+    "text": "used as an overall test of no response shift. If"
+  },
+  {
+    "category": "method",
+    "page": 9,
+    "text": "That is, common factor"
+  },
+  {
+    "category": "method",
+    "page": 9,
+    "text": "loadings that change from zero into non-zero (or"
+  },
+  {
+    "category": "method",
+    "page": 9,
+    "text": "vice versa) indicate reconceptualization, other"
+  },
+  {
+    "category": "method",
+    "page": 9,
+    "text": "changes in common factor loadings indicate rep-"
+  },
+  {
+    "category": "method",
+    "page": 9,
+    "text": "rioritization, changes in intercepts indicate uni-"
+  },
+  {
+    "category": "method",
+    "page": 9,
+    "text": "form recalibration, and changes in residual"
+  },
+  {
+    "category": "method",
+    "page": 9,
+    "text": "variances indicate non-uniform recalibration."
+  },
+  {
+    "category": "result",
+    "page": 9,
+    "text": "In"
+  },
+  {
+    "category": "result",
+    "page": 9,
+    "text": "Model 3, with all response shifts accounted for, the"
+  },
+  {
+    "category": "result",
+    "page": 9,
+    "text": "change in common factor means, represented by"
+  },
+  {
+    "category": "result",
+    "page": 9,
+    "text": "X2, is a valid measure of true change."
+  },
+  {
+    "category": "result",
+    "page": 9,
+    "text": "where the first component, (T2 - TI ),constitutes"
+  },
+  {
+    "category": "result",
+    "page": 9,
+    "text": "the contribution of recalibration, the second"
+  },
+  {
+    "category": "result",
+    "page": 9,
+    "text": "component, (F2 - F)OC2, constitutes the contribu-"
+  },
+  {
+    "category": "result",
+    "page": 9,
+    "text": "tion of reconceptualization and reprioritization,"
+  },
+  {
+    "category": "result",
+    "page": 9,
+    "text": "and the third component, F l2, constitutes"
+  },
+  {
+    "category": "result",
+    "page": 9,
+    "text": "the contribution of true change to observed"
+  },
+  {
+    "category": "result",
+    "page": 9,
+    "text": "change."
+  },
+  {
+    "category": "method",
+    "page": 10,
+    "text": "The procedure for the detection of response shifts"
+  },
+  {
+    "category": "method",
+    "page": 10,
+    "text": "and true change uses structural equation modeling"
+  },
+  {
+    "category": "method",
+    "page": 10,
+    "text": "of means and covariances."
+  },
+  {
+    "category": "result",
+    "page": 10,
+    "text": "So in this example"
+  },
+  {
+    "category": "result",
+    "page": 10,
+    "text": "(with hypothetical true values for all model"
+  },
+  {
+    "category": "result",
+    "page": 10,
+    "text": "parameters), we would need around 200 subjects"
+  },
+  {
+    "category": "result",
+    "page": 10,
+    "text": "to detect a reprioritization response shift, which is"
+  },
+  {
+    "category": "result",
+    "page": 10,
+    "text": "indicated by the difference between two non-zero"
+  },
+  {
+    "category": "result",
+    "page": 10,
+    "text": "factor loadings."
+  },
+  {
+    "category": "result",
+    "page": 10,
+    "text": "For example, a reconceptualization or"
+  },
+  {
+    "category": "result",
+    "page": 10,
+    "text": "reprioritization response shift, reflected in a"
+  },
+  {
+    "category": "result",
+    "page": 10,
+    "text": "stronger (or weaker) effect of a latent variable"
+  },
+  {
+    "category": "result",
+    "page": 10,
+    "text": "(e.g., general mental health) on an observed vari-"
+  },
+  {
+    "category": "result",
+    "page": 10,
+    "text": "able (e.g., SF-36 scales such as GH or SF), appears"
+  },
+  {
+    "category": "result",
+    "page": 10,
+    "text": "in the covariance structure (through factor load-"
+  },
+  {
+    "category": "result",
+    "page": 10,
+    "text": "ings) only if a substantial number of individuals"
+  },
+  {
+    "category": "result",
+    "page": 10,
+    "text": "experience that response shift."
+  },
+  {
+    "category": "novelty",
+    "page": 11,
+    "text": "Schmitt [16, 17] considers the"
+  },
+  {
+    "category": "novelty",
+    "page": 11,
+    "text": "covariance structure only, applying a model as"
+  },
+  {
+    "category": "novelty",
+    "page": 11,
+    "text": "given by Equation (3), thus disregarding types of"
+  },
+  {
+    "category": "novelty",
+    "page": 11,
+    "text": "change that appear in the mean structure, such as"
+  },
+  {
+    "category": "novelty",
+    "page": 11,
+    "text": "uniform recalibration and true change. Millsap"
+  },
+  {
+    "category": "novelty",
+    "page": 11,
+    "text": "and Hartog [18] apply a model for both covariance"
+  },
+  {
+    "category": "novelty",
+    "page": 11,
+    "text": "and mean structures, similar to Equations (2) and"
+  },
+  {
+    "category": "novelty",
+    "page": 11,
+    "text": "(3), and reparameterize it as a regression model."
+  },
+  {
+    "category": "novelty",
+    "page": 11,
+    "text": "So, although Schmitt and Millsap and Hartog"
+  },
+  {
+    "category": "novelty",
+    "page": 11,
+    "text": "also apply structural equation modeling to inves-"
+  },
+  {
+    "category": "result",
+    "page": 11,
+    "text": "As a result, changes in intercepts reflect"
+  },
+  {
+    "category": "result",
+    "page": 11,
+    "text": "changes in the group means of the specific factors,"
+  },
+  {
+    "category": "result",
+    "page": 11,
+    "text": "and changes in residual variances primarily reflect"
+  },
+  {
+    "category": "result",
+    "page": 11,
+    "text": "changes in the variances of the specific factors."
+  },
+  {
+    "category": "novelty",
+    "page": 12,
+    "text": "tigate different types of change, their operational-"
+  },
+  {
+    "category": "novelty",
+    "page": 12,
+    "text": "izations and detection procedures are different"
+  },
+  {
+    "category": "novelty",
+    "page": 12,
+    "text": "from ours."
+  },
+  {
+    "category": "novelty",
+    "page": 12,
+    "text": "In an at-"
+  },
+  {
+    "category": "novelty",
+    "page": 12,
+    "text": "tempt to solve the confusion caused by the mix of"
+  },
+  {
+    "category": "novelty",
+    "page": 12,
+    "text": "change typologies, definitions, interpretations,"
+  },
+  {
+    "category": "novelty",
+    "page": 12,
+    "text": "operationalizations, and detection procedures in"
+  },
+  {
+    "category": "novelty",
+    "page": 12,
+    "text": "the response shift literature [2-4], the psychometric"
+  },
+  {
+    "category": "novelty",
+    "page": 12,
+    "text": "approach yields clear definitions, interpretations,"
+  },
+  {
+    "category": "novelty",
+    "page": 12,
+    "text": "and operationalizations of changes in measure-"
+  },
+  {
+    "category": "novelty",
+    "page": 12,
+    "text": "ment characteristics and changes in subject char-"
+  },
+  {
+    "category": "novelty",
+    "page": 12,
+    "text": "acteristics."
+  },
+  {
+    "category": "method",
+    "page": 12,
+    "text": "Most of these changes, but not all, can"
+  },
+  {
+    "category": "method",
+    "page": 12,
+    "text": "be detected through structural equation modeling"
+  },
+  {
+    "category": "method",
+    "page": 12,
+    "text": "of means and covariances observed on two mea-"
+  },
+  {
+    "category": "method",
+    "page": 12,
+    "text": "surement occasions [14]."
+  }
+]

@@ -1,0 +1,134 @@
+# Moonlight Highlights
+
+## Novelty
+- p. 2: We describe how structural equation modeling can be used to detect
+- p. 2: response shifts and to measure true change.
+- p. 3: Here we will describe another structural
+- p. 3: equation modeling procedure to detect recalibra-
+- p. 3: tion, reprioritization, and reconceptualization re-
+- p. 3: sponse shifts, using data from two measurement
+- p. 3: occasions only (e.g., pretest-posttest data or
+- p. 3: baseline-followup data). With this procedure it is
+- p. 3: not only possible to detect various types of re-
+- p. 3: sponse shifts, but also to account for them and to
+- p. 3: still measure true change.
+- p. 5: That is, with Table 1 we submit that an
+- p. 5: across occasion difference within the parameter
+- p. 5: matrix in the first column is indicative of the type
+- p. 5: of change in the third column, which can be tested
+- p. 5: with the invariance hypothesis in the fourth
+- p. 5: column.
+- p. 7: Such a change can be interpreted as reprioritiza-
+- p. 7: tion or reconceptualization in the measurement of
+- p. 7: one or more higher order factors. In
+- p. 11: Schmitt [16, 17] considers the
+- p. 11: covariance structure only, applying a model as
+- p. 11: given by Equation (3), thus disregarding types of
+- p. 11: change that appear in the mean structure, such as
+- p. 11: uniform recalibration and true change. Millsap
+- p. 11: and Hartog [18] apply a model for both covariance
+- p. 11: and mean structures, similar to Equations (2) and
+- p. 11: (3), and reparameterize it as a regression model.
+- p. 11: So, although Schmitt and Millsap and Hartog
+- p. 11: also apply structural equation modeling to inves-
+- p. 12: tigate different types of change, their operational-
+- p. 12: izations and detection procedures are different
+- p. 12: from ours.
+- p. 12: In an at-
+- p. 12: tempt to solve the confusion caused by the mix of
+- p. 12: change typologies, definitions, interpretations,
+- p. 12: operationalizations, and detection procedures in
+- p. 12: the response shift literature [2-4], the psychometric
+- p. 12: approach yields clear definitions, interpretations,
+- p. 12: and operationalizations of changes in measure-
+- p. 12: ment characteristics and changes in subject char-
+- p. 12: acteristics.
+
+## Method
+- p. 3: In structural equation modeling we model mean
+- p. 3: and covariance structures, rather than the scores
+- p. 3: of individual subjects, as in Equation (1).
+- p. 4: When a test or questionnaire is administered at
+- p. 4: two occasions, the parameter matrices that feature
+- p. 4: in Equations (2) and (3) are made up of smaller
+- p. 4: matrices.
+- p. 5: Various types of change, including response shifts
+- p. 5: and true change, can be investigated by testing the
+- p. 5: across occasion invariance of (elements of) the
+- p. 5: submatrices given by Equations (5) through (7).
+- p. 6: If the value of the factor loading of a particular
+- p. 6: observed variable changes from one occasion to
+- p. 6: the next, then that variable has become more
+- p. 6: indicative or less indicative of the concept in-
+- p. 6: volved.
+- p. 7: Therefore,
+- p. 7: across occasion differences between intercepts z
+- p. 7: (i.e., within T, between Tr and Z2) and across oc-
+- p. 7: casion differences between residual variances (i.e.,
+- p. 7: within Diag(Q), between Diag(Q11) and Diag(Q22)
+- p. 7: are considered as evidence of uniform recalibra-
+- p. 7: tion and non-uniform recalibration, respectively.
+- p. 8: Table 2 summarizes the four steps in a procedure
+- p. 8: for the detection of response shifts and the mea-
+- p. 8: surement of true change. In this procedure, struc-
+- p. 8: tural equation modeling is used to investigate the
+- p. 8: invariance hypotheses listed in Table 1.
+- p. 9: That is, common factor
+- p. 9: loadings that change from zero into non-zero (or
+- p. 9: vice versa) indicate reconceptualization, other
+- p. 9: changes in common factor loadings indicate rep-
+- p. 9: rioritization, changes in intercepts indicate uni-
+- p. 9: form recalibration, and changes in residual
+- p. 9: variances indicate non-uniform recalibration.
+- p. 10: The procedure for the detection of response shifts
+- p. 10: and true change uses structural equation modeling
+- p. 10: of means and covariances.
+- p. 12: Most of these changes, but not all, can
+- p. 12: be detected through structural equation modeling
+- p. 12: of means and covariances observed on two mea-
+- p. 12: surement occasions [14].
+
+## Result
+- p. 6: the
+- p. 6: pattern of the F1 matrix differs from pattern of the
+- p. 6: F2 matrix, then one or more concepts are defined
+- p. 6: by unequal sets of observed variables, and we
+- p. 6: conclude that reconceptualization occurred.
+- p. 6: first
+- p. 7: In the model given by Equation (1), the
+- p. 7: common factors 4 can be seen as operationaliza-
+- p. 7: tions of target constructs, so that the change in the
+- p. 7: common factor means cx can be used as the oper-
+- p. 7: ationalization of true change.
+- p. 8: The difference in the
+- p. 8: X2 measures of fit of Models 1 and 2 can thus be
+- p. 8: used as an overall test of no response shift. If
+- p. 9: In
+- p. 9: Model 3, with all response shifts accounted for, the
+- p. 9: change in common factor means, represented by
+- p. 9: X2, is a valid measure of true change.
+- p. 9: where the first component, (T2 - TI ),constitutes
+- p. 9: the contribution of recalibration, the second
+- p. 9: component, (F2 - F)OC2, constitutes the contribu-
+- p. 9: tion of reconceptualization and reprioritization,
+- p. 9: and the third component, F l2, constitutes
+- p. 9: the contribution of true change to observed
+- p. 9: change.
+- p. 10: So in this example
+- p. 10: (with hypothetical true values for all model
+- p. 10: parameters), we would need around 200 subjects
+- p. 10: to detect a reprioritization response shift, which is
+- p. 10: indicated by the difference between two non-zero
+- p. 10: factor loadings.
+- p. 10: For example, a reconceptualization or
+- p. 10: reprioritization response shift, reflected in a
+- p. 10: stronger (or weaker) effect of a latent variable
+- p. 10: (e.g., general mental health) on an observed vari-
+- p. 10: able (e.g., SF-36 scales such as GH or SF), appears
+- p. 10: in the covariance structure (through factor load-
+- p. 10: ings) only if a substantial number of individuals
+- p. 10: experience that response shift.
+- p. 11: As a result, changes in intercepts reflect
+- p. 11: changes in the group means of the specific factors,
+- p. 11: and changes in residual variances primarily reflect
+- p. 11: changes in the variances of the specific factors.

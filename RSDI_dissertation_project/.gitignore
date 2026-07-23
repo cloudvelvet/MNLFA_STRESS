@@ -1,0 +1,13 @@
+*.RData
+*.Rhistory
+*.rds
+*.RDS
+*.csv
+!outputs/paper1_preliminary/*.csv
+data/raw/
+data/derived/
+cmdstan/
+.venv/
+__pycache__/
+*.log
+*.tmp

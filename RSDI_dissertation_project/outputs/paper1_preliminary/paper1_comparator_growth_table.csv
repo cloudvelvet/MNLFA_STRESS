@@ -1,0 +1,4 @@
+model,estimator,parameter,scale,estimate,lower_90,upper_90,note
+naive observed-score LME,REML LME,time slope,mean observed category,-0.0419007884907755,,,Fast comparator; random intercept and time slope.
+invariant ordinal LGM,full-data mean-field VI,slope_mean,latent theta,-0.22205976477,-0.2390406255,-0.2050148605,Ordinal latent comparator with equal item parameters.
+structural-state MNLFA,full-data repeated mean-field VI,slope_mean,latent theta,-0.21038196169,-0.26016048374,-0.16358505193,"Range is across 4 VI seeds, not a posterior interval."

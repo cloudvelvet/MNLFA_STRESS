@@ -1,0 +1,62 @@
+[
+  {
+    "category": "novelty",
+    "page": 1,
+    "text": "With multiple indicators of a latent construct at each time of measurement, the researcher can evaluate whether factorial invariance holds.",
+    "highlight_text": "With multiple indicators of a latent construct at each time of measurement, the researcher can evaluate whether factorial invariance holds. If"
+  },
+  {
+    "category": "novelty",
+    "page": 1,
+    "text": "at each time of In this paper we discuss factorial invariance in longitudinal studies, contrasting analytic approaches and highlighting strengths of the multiple-indicator approach to modeling developmental processes.",
+    "highlight_text": "at each time of In this paper we discuss factorial invariance in longitudinal studies, contrasting analytic approaches and highlighting strengths of the multiple-indicator approach to modeling developmental processes."
+  },
+  {
+    "category": "novelty",
+    "page": 1,
+    "text": "One of the more vexing problems in assessing development – and one that deserves greater attention – is the problem of measurement invariance.",
+    "highlight_text": "One of the more vexing problems in assessing development – and one that deserves greater attention – is the problem of measurement invariance. Researchers a"
+  },
+  {
+    "category": "novelty",
+    "page": 1,
+    "text": "NIH Public Access Author Manuscript Child Dev Perspect.",
+    "highlight_text": "NIH Public Access"
+  },
+  {
+    "category": "novelty",
+    "page": 2,
+    "text": "Investigating whether the same construct is assessed on the same metric across groups or occasions is discussed under the rubric of measurement invariance.",
+    "highlight_text": "Investigating whether the same construct is assessed on the same metric across groups or occasions is discussed under the rubric of measurement invariance. Within"
+  },
+  {
+    "category": "novelty",
+    "page": 2,
+    "text": "Investigating change in behavior across time (e.",
+    "highlight_text": "Investigating change in behavior across time (e.g., McArdle & Epstein, 1987; Meredith & Tisak, 1984, 1990) and interrelations across time among two or more processes (e.g., Cole & Maxwell, 2003; Curran & Bollen, 2001; Maxwell & Cole, 2007; McArdle, 2001; McArdle & Hamagami, 2001) are predicated on satisfying a key assumption: for each construct of interest, we are measuring the same thing in the same metric at each occasion. Rather than assuming this to be the case, we can formally test this hypothesis of factorial invariance, but only if multiple indicators of a construct are available at each occasion. A this"
+  },
+  {
+    "category": "method",
+    "page": 2,
+    "text": "With this data structure, we can evaluate how well models with varying levels of factorial invariance fit the data and thereby test assumptions regarding factorial structure across time.",
+    "highlight_text": "With this data structure, we can evaluate how well models with varying levels of factorial invariance fit the data and thereby test assumptions regarding factorial structure across time. In"
+  },
+  {
+    "category": "novelty",
+    "page": 3,
+    "text": "Put simply, factorial invariance in longitudinal models concerns whether relations between latent variables and their manifest indicators are invariant across occasions.",
+    "highlight_text": "Put simply, factorial invariance in longitudinal models concerns whether relations between latent variables and their manifest indicators are invariant across occasions. Stated the"
+  },
+  {
+    "category": "method",
+    "page": 3,
+    "text": "a.",
+    "highlight_text": "a. configural invariance: the same pattern of fixed and free factor loadings across time; b. weak factorial invariance: invariant factor loadings across time; c. strong factorial invariance: invariant factor loadings and intercepts across time; and d. strict factorial invariance: invariant factor loadings, intercepts, and unique factor variances across time."
+  },
+  {
+    "category": "method",
+    "page": 3,
+    "text": "The first general step includes comparisons among a series of four models corresponding to the levels of factorial invariance listed in the preceding paragraph.",
+    "highlight_text": "The first general step includes comparisons among a series of four models corresponding to the levels of factorial invariance listed in the preceding paragraph. First,"
+  }
+]

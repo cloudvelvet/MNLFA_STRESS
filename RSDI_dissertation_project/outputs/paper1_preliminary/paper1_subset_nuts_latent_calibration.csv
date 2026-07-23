@@ -1,0 +1,6 @@
+variable,source_vi,mean_vi,q5_vi,q95_vi,source_nuts,mean_nuts,q5_nuts,q95_nuts,same_direction
+growth_sd[1],"full-data VI, measurement-only MNLFA",0.31241821639,0.3095391845,0.315258683,"subset NUTS, measurement-only MNLFA",1.11198239734,0.9032255845,1.34006727,TRUE
+growth_sd[2],"full-data VI, measurement-only MNLFA",0.0060729362262,0.00393546554,0.008915109855,"subset NUTS, measurement-only MNLFA",0.183759459172,0.1194431235,0.2545282205,TRUE
+occasion_sd,"full-data VI, measurement-only MNLFA",0.26043025315,0.2573097795,0.263668885,"subset NUTS, measurement-only MNLFA",0.92505100411,0.744394692,1.111166455,TRUE
+slope_mean,"full-data VI, measurement-only MNLFA",-0.02777067177,-0.0307472091,-0.0250723443,"subset NUTS, measurement-only MNLFA",-0.1183221369,-0.1567061615,-0.0822733462,TRUE
+slope_variance,"full-data VI, measurement-only MNLFA",3.92755374742e-05,1.54878903e-05,7.947921e-05,"subset NUTS, measurement-only MNLFA",0.03548417485463,0.01426666175,0.0647846191,TRUE

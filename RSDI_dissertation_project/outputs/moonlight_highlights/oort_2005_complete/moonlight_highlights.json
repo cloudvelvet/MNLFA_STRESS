@@ -1,0 +1,132 @@
+[
+  {
+    "category": "novelty",
+    "page": 2,
+    "text": "We describe how structural equation modeling can be used to detect response shifts and to measure true change."
+  },
+  {
+    "category": "novelty",
+    "page": 3,
+    "text": "Here we will describe another structural equation modeling procedure to detect recalibration, reprioritization, and reconceptualization response shifts, using data from two measurement occasions only (e.g., pretest-posttest data or baseline-followup data). With this procedure it is not only possible to detect various types of response shifts, but also to account for them and to still measure true change."
+  },
+  {
+    "category": "method",
+    "page": 3,
+    "text": "In structural equation modeling we model mean and covariance structures, rather than the scores of individual subjects, as in Equation (1)."
+  },
+  {
+    "category": "method",
+    "page": 4,
+    "text": "When a test or questionnaire is administered at two occasions, the parameter matrices that feature in Equations (2) and (3) are made up of smaller matrices."
+  },
+  {
+    "category": "novelty",
+    "page": 5,
+    "text": "That is, with Table 1 we submit that an across occasion difference within the parameter matrix in the first column is indicative of the type of change in the third column, which can be tested with the invariance hypothesis in the fourth column."
+  },
+  {
+    "category": "method",
+    "page": 5,
+    "text": "Various types of change, including response shifts and true change, can be investigated by testing the across occasion invariance of (elements of) the submatrices given by Equations (5) through (7)."
+  },
+  {
+    "category": "method",
+    "page": 6,
+    "text": "If the value of the factor loading of a particular observed variable changes from one occasion to the next, then that variable has become more indicative or less indicative of the concept involved."
+  },
+  {
+    "category": "result",
+    "page": 6,
+    "text": "the pattern of the F1 matrix differs from pattern of the F2 matrix, then one or more concepts are defined by unequal sets of observed variables, and we conclude that reconceptualization occurred."
+  },
+  {
+    "category": "result",
+    "page": 6,
+    "text": "first"
+  },
+  {
+    "category": "novelty",
+    "page": 7,
+    "text": "Such a change can be interpreted as reprioritization or reconceptualization in the measurement of one or more higher order factors. In"
+  },
+  {
+    "category": "method",
+    "page": 7,
+    "text": "Therefore, across occasion differences between intercepts z (i.e., within T, between Tr and Z2) and across occasion differences between residual variances (i.e., within Diag(Q), between Diag(Q11) and Diag(Q22) are considered as evidence of uniform recalibration and non-uniform recalibration, respectively."
+  },
+  {
+    "category": "result",
+    "page": 7,
+    "text": "In the model given by Equation (1), the common factors 4 can be seen as operationalizations of target constructs, so that the change in the common factor means cx can be used as the operationalization of true change."
+  },
+  {
+    "category": "method",
+    "page": 8,
+    "text": "Table 2 summarizes the four steps in a procedure for the detection of response shifts and the measurement of true change. In this procedure, structural equation modeling is used to investigate the invariance hypotheses listed in Table 1."
+  },
+  {
+    "category": "result",
+    "page": 8,
+    "text": "The difference in the X2 measures of fit of Models 1 and 2 can thus be used as an overall test of no response shift. If"
+  },
+  {
+    "category": "method",
+    "page": 9,
+    "text": "That is, common factor loadings that change from zero into non-zero (or vice versa) indicate reconceptualization, other changes in common factor loadings indicate reprioritization, changes in intercepts indicate uniform recalibration, and changes in residual variances indicate non-uniform recalibration."
+  },
+  {
+    "category": "result",
+    "page": 9,
+    "text": "In Model 3, with all response shifts accounted for, the change in common factor means, represented by X2, is a valid measure of true change."
+  },
+  {
+    "category": "result",
+    "page": 9,
+    "text": "where the first component, (T2 TI ),constitutes the contribution of recalibration, the second component, (F2 F)OC2, constitutes the contribution of reconceptualization and reprioritization, and the third component, F l2, constitutes the contribution of true change to observed change."
+  },
+  {
+    "category": "method",
+    "page": 10,
+    "text": "The procedure for the detection of response shifts and true change uses structural equation modeling of means and covariances."
+  },
+  {
+    "category": "result",
+    "page": 10,
+    "text": "So in this example (with hypothetical true values for all model parameters), we would need around 200 subjects to detect a reprioritization response shift, which is indicated by the difference between two non-zero factor loadings."
+  },
+  {
+    "category": "result",
+    "page": 10,
+    "text": "For example, a reconceptualization or reprioritization response shift, reflected in a stronger (or weaker) effect of a latent variable (e.g., general mental health) on an observed variable (e.g., SF-36 scales such as GH or SF), appears in the covariance structure (through factor loadings) only if a substantial number of individuals experience that response shift."
+  },
+  {
+    "category": "novelty",
+    "page": 11,
+    "text": "Schmitt [16, 17] considers the covariance structure only, applying a model as given by Equation (3), thus disregarding types of change that appear in the mean structure, such as uniform recalibration and true change. Millsap and Hartog [18] apply a model for both covariance and mean structures, similar to Equations (2) and (3), and reparameterize it as a regression model."
+  },
+  {
+    "category": "novelty",
+    "page": 11,
+    "text": "So, although Schmitt and Millsap and Hartog also apply structural equation modeling to inves-"
+  },
+  {
+    "category": "result",
+    "page": 11,
+    "text": "As a result, changes in intercepts reflect changes in the group means of the specific factors, and changes in residual variances primarily reflect changes in the variances of the specific factors."
+  },
+  {
+    "category": "novelty",
+    "page": 12,
+    "text": "tigate different types of change, their operationalizations and detection procedures are different from ours."
+  },
+  {
+    "category": "novelty",
+    "page": 12,
+    "text": "In an attempt to solve the confusion caused by the mix of change typologies, definitions, interpretations, operationalizations, and detection procedures in the response shift literature [2-4], the psychometric approach yields clear definitions, interpretations, and operationalizations of changes in measurement characteristics and changes in subject characteristics."
+  },
+  {
+    "category": "method",
+    "page": 12,
+    "text": "Most of these changes, but not all, can be detected through structural equation modeling of means and covariances observed on two measurement occasions [14]."
+  }
+]

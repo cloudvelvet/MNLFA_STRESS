@@ -1,0 +1,62 @@
+[
+  {
+    "category": "novelty",
+    "page": 1,
+    "text": "The current paper argues that Moderated Nonlinear Factor Analysis (MNLFA) constitutes an alternative, more flexible model for evaluating measurement invariance and differential item functioning.",
+    "highlight_text": "The current paper argues that Moderated Nonlinear Factor Analysis (MNLFA) constitutes an alternative, more flexible model for evaluating measurement invariance and differential item functioning. We show that the MNLFA subsumes and combines the strengths of the multiple group and MIMIC models, allowing for a full and simultaneous assessment of measurement invariance and differential item functioning across multiple categorical and/or continuous individual difference variables."
+  },
+  {
+    "category": "novelty",
+    "page": 2,
+    "text": "The overarching goal of our paper is to therefore to present and contrast latent variable modeling approaches for the assessment of MI/DIF, including a relatively new approach that we argue offers important advantages over current practice.",
+    "highlight_text": "The overarching goal of our paper is to therefore to present and contrast latent variable modeling approaches for the assessment of MI/DIF, including a relatively new approach that we argue offers important advantages over current practice."
+  },
+  {
+    "category": "novelty",
+    "page": 2,
+    "text": "We begin by defining measurement invariance and reviewing the two latent variable modeling approaches that are most frequently used to evaluate MI/DIF, namely the multiple groups (MG) modeling approach and the multiple-indicator multiple-cause (MIMIC) modeling approach.",
+    "highlight_text": "We begin by defining measurement invariance and reviewing the two latent variable modeling approaches that are most frequently used to evaluate MI/DIF, namely the multiple groups (MG) modeling approach and the multiple-indicator multiple-cause (MIMIC) modeling approach. In"
+  },
+  {
+    "category": "novelty",
+    "page": 3,
+    "text": "then present and advocate a third, more general approach which employs a moderated nonlinear factor analysis (MNLFA) model.",
+    "highlight_text": "then present and advocate a third, more general approach which employs a moderated nonlinear factor analysis (MNLFA) model."
+  },
+  {
+    "category": "novelty",
+    "page": 3,
+    "text": "We will show that MNLFA incorporates the strengths of both the MG and MIMIC modeling approaches while avoiding their limitations.",
+    "highlight_text": "We will show that MNLFA incorporates the strengths of both the MG and MIMIC modeling approaches while avoiding their limitations."
+  },
+  {
+    "category": "novelty",
+    "page": 4,
+    "text": "With the MG model, one can simultaneously fit a confirmatory factor analysis in each of two or more groups, with the option to impose equality constraints on subsets of the model parameters.",
+    "highlight_text": "With the MG model, one can simultaneously fit a confirmatory factor analysis in each of two or more groups, with the option to impose equality constraints on subsets of the model parameters."
+  },
+  {
+    "category": "novelty",
+    "page": 4,
+    "text": "What the diagram does not indicate, but is critical for the establishment of MI, is whether the parameter values governing the relationships between the items and the factors are identical across groups.",
+    "highlight_text": "What the diagram does not indicate, but is critical for the establishment of MI, is whether the parameter values governing the relationships between the items and the factors are identical across groups."
+  },
+  {
+    "category": "novelty",
+    "page": 5,
+    "text": "Second, this way of writing the model will facilitate subsequent comparisons to the MIMIC and MNLFA models.",
+    "highlight_text": "Second, this way of writing the model will facilitate subsequent comparisons to the MIMIC and MNLFA models."
+  },
+  {
+    "category": "novelty",
+    "page": 6,
+    "text": "Our empirical example will illustrate this generalization of the MG model (as well as the MIMIC and MNLFA models) to discrete outcomes, but until then we shall retain the simplifying assumption that the items are continuous and linearly related to the factors.",
+    "highlight_text": "Our empirical example will illustrate this generalization of the MG model (as well as the MIMIC and MNLFA models) to discrete outcomes, but until then we shall retain the simplifying assumption that the items are continuous and linearly related to the factors."
+  },
+  {
+    "category": "novelty",
+    "page": 6,
+    "text": "For the linear factor analysis model, Meredith (1993) defined a hierarchy of levels of invariance that validate different types of between-group comparisons on the latent variables.",
+    "highlight_text": "For the linear factor analysis model, Meredith (1993) defined a hierarchy of levels of invariance that validate different types of between-group comparisons on the latent variables."
+  }
+]
