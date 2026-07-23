@@ -95,7 +95,10 @@ if (requireNamespace("nlme", quietly = TRUE)) {
     p_value = fixed[, "p-value"],
     row.names = NULL
   )
-  observed_random <- as.data.frame(nlme::VarCorr(observed_fit))
+  observed_random <- data.frame(
+    line = capture.output(print(nlme::VarCorr(observed_fit))),
+    row.names = NULL
+  )
   write.csv(observed_random, file.path(out_dir, "observed_score_random_effects.csv"),
             row.names = FALSE)
 } else {
